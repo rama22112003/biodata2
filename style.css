@@ -1,0 +1,50 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-family: "pacifico", cursive;
+  font-size: 70px;
+  text-decoration: underline;
+  padding: 50px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 300px;
+  height: auto;
+  border-radius: 50%;
+  padding: 50px;
+  align-items: center;
+}
+
+.info {
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 30px;
+  text-decoration: underline;
+  padding: 50px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+li {
+  margin: 5px 0;
+}
